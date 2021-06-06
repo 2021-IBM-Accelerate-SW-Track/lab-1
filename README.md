@@ -1,4 +1,4 @@
-# Lab 1: To-do list Application Example
+# Lab 1: To-do list Application
 ## Requirements
 Create and style a to-do list application. This app needs to:
 + Take in to-do items
