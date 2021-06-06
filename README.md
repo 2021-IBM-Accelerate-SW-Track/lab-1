@@ -1,6 +1,16 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Lab 1: To-do list Application Example
+## Requirements
+Create and style a to-do list application. This app needs to:
++ Take in to-do items
++ Display to-do items
++ Allow user to mark items as complete
++ Provide date and time of item addition
++ Validate there are no duplicated items
++ Update list items
++ Delete list items
++ Use Material UI styles
++ Use list.map function for list items
++ Use functional components
 
 ## Available Scripts
 
