@@ -7,6 +7,8 @@
 
 # testing
 /coverage
+# DO NOT REMOVE BELOW LINE
+*.test.js
 
 # production
 /build
