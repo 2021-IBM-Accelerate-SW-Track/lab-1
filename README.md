@@ -1,4 +1,4 @@
-# Lab 1: To-do list Application
+# Lab 1: To-do list application
 ## Requirements
 Create and style a to-do list application. This app needs to:
 + Take in to-do items
@@ -12,7 +12,13 @@ Create and style a to-do list application. This app needs to:
 + Use list.map function for list items
 + Use functional components
 
-## Available Scripts
+## Testing ids
+When testing web components, developers often use ids to uniquely define elements on a page. The React Testing Library provides a query which can identify items with the attribute `data-testid` to do just that (reference [here](https://testing-library.com/docs/queries/bytestid/)). We have implemented simple tests in `App.test.js` that will look for ids in your code. To get familiar with this idea, implement the attributes below:
++ `data-testid="new-item-input"` on the Input component which takes user input for new items.
++ `data-testid="new-item-button"` on the Button component which submits new items to the to do list.
+Note: Material UI components (and other libraries) render as HTML components under the hood, so using Material UI's TextField would still render in the DOM as an Input element and pass the tests for this lab.
+
+## Available scripts
 
 In the project directory, you can run:
 
