@@ -1,6 +1,8 @@
 # Lab 1: To-do list application
 ## Introduction
-As a team, you should create and style the front-end of a to-do list web application using React and Material UI components. A typical user wants to be able to use a to-do list to organize tasks. Keeping user stories in mind when designing applications helps determine important features. We encourage you to take a unique approach to this lab as there is no one right answer. Material Design is a design system that can guide you on what UI decisions to make if you would like to explore best practices, but functionality is the key focus of the lab.
+As a team, you should create and style the front-end of a to-do list web application using React and Material UI components. A typical user wants to be able to use a to-do list to organize tasks. Keeping user stories in mind when designing applications helps determine important features. We encourage you to take a unique approach to this lab as there is no one right answer. 
+- [Material Design](https://material.io/design/introduction) is a design system that can guide you on what UI decisions to make if you would like to explore best practices, but functionality is the key focus of the lab.
+- No back-end is required for this lab, all data (tasks) should live in the front-end.
 
 
 ## Requirements
